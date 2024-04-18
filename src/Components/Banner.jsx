@@ -3,7 +3,7 @@ import banner_img from "../assets/3rd_floor/UtilTrack-UI/banner-bg.png"
 const Banner = () => {
   return (
     <div
-      className="hero min-h-screen fixed z-10"
+      className="hero min-h-screen"
       style={{
         backgroundImage:
           `url(${banner_img})`,
